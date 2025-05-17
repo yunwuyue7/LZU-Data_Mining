@@ -1,0 +1,7 @@
+to Week 13: Classification
+1. Classify data (dim = [60218, 335]) to groups on samplegroup:ch1, 
+2. Regression models on GSM to das28.ch1 e.g. Linear Regression, Polynomial Regression, Quantile Regression, or others
+
+END
+
+Regression Models: Linear Regression, Logistic regression, Polynomial Regression, Ridge Regression, Lasso Regression, Poisson Regression, Quantile Regression, or others
