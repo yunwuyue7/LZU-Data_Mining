@@ -1,0 +1,5 @@
+to Week 18: Clustering
+1. Clustering  (dim = [60218, 335]) to groups w.r.t. samplegroup:ch1
+2. Clustering to groups w.r.t. das28.ch1 for three groups of low: [0,1), middle: [1, 3), and high: [3, inf]. (If some data of das28 is not given, it will be directly taken as 0)
+
+评价聚类效果时，使用rand index（兰德系数）
